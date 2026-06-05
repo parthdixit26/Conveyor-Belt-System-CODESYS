@@ -46,8 +46,6 @@ automatically when an object is detected by Sensor B.
 3. Open the .project file in CODESYS
 4. Run in Simulation Mode: Online → Simulation Mode → Login → Start
 
-## Screenshots
-![Conveyor Belt Layout](screenshots/Conveyor_belt_layout.png)
 
 ## Author
 Parth — Electronics Engineering Master's Student  
